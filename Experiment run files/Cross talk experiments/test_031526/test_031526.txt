@@ -1,0 +1,410 @@
+Starting in 2 seconds...
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+c:\Users\harikrishnan\OneDrive - Texas A&M University\Jaiswal, Bhavya's files - LEMOS\test_031526\ble_control_pid_ctrl new.py:295: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  self.error_df = pd.concat([self.error_df, new_row], ignore_index=True)
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
+Restarting experiment after processing datafile...
+Starting in 2 seconds...
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: rgrgggooooggrgrg
+DEVICE: COMMAND RECEIPT CONFIRMED
+Writing LED command: oooooooooooooooo
+DEVICE: COMMAND RECEIPT CONFIRMED
+Datafile was modified! - .\Datafile\test_031526.csv
